@@ -4,7 +4,8 @@ STAT 433 HW2
 
 # The following work are completed by Fenghang Yao(<fyao4@wisc.edu>).
 
-[Fenghang Yao HW2 Github link]()
+[Fenghang Yao HW2 Github
+link](https://github.com/dorisyao06/STAT-433-HW2)
 
 ## Introduction
 
