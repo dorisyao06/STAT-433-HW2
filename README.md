@@ -139,7 +139,7 @@ unique(flights$carrier_name)
     ## [13] "Frontier Airlines Inc."      "Hawaiian Airlines Inc."     
     ## [15] "Mesa Airlines Inc."          "SkyWest Airlines Inc."
 
-Then, I want to create a linear plot to show the raltionship between
+Then, I want to create a linear plot to show the relationship between
 hour and arrival delay time(in minutes) based on airlines
 classification.
 
@@ -225,7 +225,7 @@ unique(flights$origin)
 
     ## [1] "EWR" "LGA" "JFK"
 
-Then, I want to create a linear plot to show the raltionship between
+Then, I want to create a linear plot to show the relationship between
 hour and arrival delay time(in minutes) based on origin airports
 classification.
 
